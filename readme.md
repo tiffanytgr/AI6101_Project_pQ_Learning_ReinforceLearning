@@ -4,7 +4,7 @@ In this assignment, students must code and implement one of the reinforcement le
 
 Only for the reference of curious people, eager to learn something new.  
 
-Please check the plagiarism rules. I do not support any misuse of the source code. 
+Please check the plagiarism rules. I do not support any misuse of the source code.  
 Final Grade: A
 
 
@@ -33,12 +33,6 @@ This repository should only be used for reasonable academic discussions. I, the 
 
 **[AI6101] Introduction to AI & AI Ethics** is a core course of Master of Science in Artificial Intelligence Graduate Programme **(MSAI)**, School of Computer Science and Engineering **(SCSE)**, Nanyang Technological University **(NTU)**, Singapore. The repository corresponds to the AI6101 of **Semester 2, AY2022-2023**, starting from 01/2023. 
 
-The projects of this course consist of **one individual Assignments**, **one individual Eassy**, and **one group Project**. The topic of the assignment are shown below, and the specific score is not provided to us. Since multiple people complete the group work, I do not have the right to disclose the report and others' codes individually so that the relevant parts will be hidden.
-
-Type | Topic
------------- | -------------
-Assignment | Reinforcement Learning
----
 
 ### **====== A C K N O W L E D G E M E N T ======**
 
