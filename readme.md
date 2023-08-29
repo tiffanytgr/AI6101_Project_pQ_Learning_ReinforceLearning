@@ -30,14 +30,14 @@ https://ts.ntu.edu.sg/sites/policyportal/new/Documents/All%20including%20NIE%20s
 
 ### **====== D I S C L A I M E R ======**
 
-This repository should only be used for reasonable academic discussions. I, the owner of this repository, never and will never **ALLOWING** another student to copy this assignment as their own. In such circumstances, I do not violate NTU's statement on academic integrity as of the time this repository is open (16/01/2022). I am not responsible for any future plagiarism using the content of this repository.
+This repository should only be used for reasonable academic discussions. I, the owner of this repository, never and will never **ALLOWING** another student to copy this assignment as their own. In such circumstances, I do not violate NTU's statement on academic integrity as of the time this repository is open (29/08/2023). I am not responsible for any future plagiarism using the content of this repository.
 
 ---
 ---
 
 ### **====== I N T R O D U C T I O N ======**
 
-**[AI6101] Introduction to AI & AI Ethics** is a core course of Master of Science in Artificial Intelligence Graduate Programme **(MSAI)**, School of Computer Science and Engineering **(SCSE)**, Nanyang Technological University **(NTU)**, Singapore. The repository corresponds to the AI6101 of **Semester 1, AY2021-2022**, starting from 08/2021. **The instructors of this course are Prof. Bo An, Prof. Yu Han, and Dr. Melvin Chen.**
+**[AI6101] Introduction to AI & AI Ethics** is a core course of Master of Science in Artificial Intelligence Graduate Programme **(MSAI)**, School of Computer Science and Engineering **(SCSE)**, Nanyang Technological University **(NTU)**, Singapore. The repository corresponds to the AI6101 of **Semester 2, AY2022-2023**, starting from 01/2023. 
 
 The projects of this course consist of **one individual Assignments**, **one individual Eassy**, and **one group Project**. The topic of the assignment are shown below, and the specific score is not provided to us. Since multiple people complete the group work, I do not have the right to disclose the report and others' codes individually so that the relevant parts will be hidden.
 
