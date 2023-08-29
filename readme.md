@@ -42,4 +42,4 @@ Assignment | Reinforcement Learning
 
 ### **====== A C K N O W L E D G E M E N T ======**
 
-All of above projects are designed by Prof. Bo An. Readme designed by [AccSrd](https://github.com/AccSrd)
+All of above projects are designed by Prof. Bo An. Readme notes designed by [AccSrd](https://github.com/AccSrd)
