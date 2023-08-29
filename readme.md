@@ -16,13 +16,7 @@ The content in this repository should exclusively be utilized in sharing solutio
 
 Moreover, if you are taking the AI6101 course, do not be stupid. You can utilize the materials here as a reference to construct your own assignment and reflect the citation to this repository in the final report. **If you copy the code without citing it, you have violated NTU's academic integrity and are involved in plagiarism.**
 
-Please refer to the following links for NTU's determination of academic integrity and plagiarism:
-
-https://ts.ntu.edu.sg/sites/intranet/dept/tlpd/ai/Pages/NTU-Academic-Integrity-Policy.aspx
-
-https://ts.ntu.edu.sg/sites/intranet/dept/tlpd/ai/Pages/default.aspx
-
-https://ts.ntu.edu.sg/sites/policyportal/new/Documents/All%20including%20NIE%20staff%20and%20students/Student%20Academic%20Integrity%20Policy.pdf
+Please refer to the following links for NTU's determination of academic integrity and plagiarism
 
     If you think the professor is easy to fool, think again.
 
